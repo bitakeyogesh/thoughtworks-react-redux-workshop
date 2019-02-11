@@ -1,9 +1,17 @@
 # Sample App Using React JS And Redux ( ThoughtWorks Company Workshop )
 A sample application with react, redux, jest and webpack.
 
+**Movie List With Add To Favorites Option On Image Over**
+
+![alt text](https://github.com/bitakeyogesh/thoughtworks-react-redux-workshop/blob/master/app_screenshot1.png)
+
+**Movie List With Remove To Favorites Option On Image Over If Movie Is Already Added In Favorites**
+
+![alt text](https://github.com/bitakeyogesh/thoughtworks-react-redux-workshop/blob/master/app_screenshot2.png)
+
 
 ## Contains:
-* Movie List & Movie Cards React component
+* Movie List & Movie Card React component
 * ES6 - 7 Support with Babel
 * HRM - Hot module replacement support
 * Sass support
