@@ -1,2 +1,4 @@
-node_modules
-dist
+react-redux-scaffolding-app/node_modules
+react-scaffolding-app/node_modules
+react-scaffolding-app/dist
+react-redux-scaffolding-app/node_modules
