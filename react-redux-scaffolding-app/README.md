@@ -1,11 +1,15 @@
-# react-sample app
-A sample application with react, jest and webpack.
+# react-redux-sample app
+A sample application with react, redux, jest and webpack.
 
 
 ## Contains:
-* Sample React component
+
+* Sync Redux action example
+* Async Redux action example (using Redux Loop) 
+* React Router - for handling routes
+* Webpack dev and production config
 * ES6 - 7 Support with Babel
-* HRM - Hot module replacement support
+* HMR - Hot module replacement support
 * Sass support
 * Jest - unit testing framework
 * Enzyme - Testing react components
@@ -13,7 +17,7 @@ A sample application with react, jest and webpack.
 
 ## Getting Started
 
-**1. Clone the repository and ```cd react-sample-app```**
+**1. Clone the repository and ```cd react-redux-sample-app```**
 
 
 **2. Install all of the dependencies:**

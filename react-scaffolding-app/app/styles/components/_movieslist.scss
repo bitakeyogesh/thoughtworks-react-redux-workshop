@@ -1,0 +1,24 @@
+.horizontal-scroll-wrapper {
+  display: -webkit-box;
+	overflow-x: scroll;
+	width: 100%;
+}
+
+.favbutton {
+	display: none;
+}
+
+img:hover + .favbutton, .favbutton:hover {
+	display: inline-block;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
