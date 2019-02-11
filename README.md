@@ -1,9 +1,9 @@
-# react-sample app
-A sample application with react, jest and webpack.
+# Sample App Using React JS And Redux ( ThoughtWorks Company Workshop )
+A sample application with react, redux, jest and webpack.
 
 
 ## Contains:
-* Sample React component
+* Movie List & Movie Cards React component
 * ES6 - 7 Support with Babel
 * HRM - Hot module replacement support
 * Sass support
@@ -13,7 +13,7 @@ A sample application with react, jest and webpack.
 
 ## Getting Started
 
-**1. Clone the repository and ```cd react-sample-app```**
+**1. Clone the repository and ```cd thoughtworks-react-redux-workshop/react-redux-scaffolding-app```**
 
 
 **2. Install all of the dependencies:**
@@ -23,6 +23,8 @@ A sample application with react, jest and webpack.
 **3. Run the app:**
 
 ```npm run start```
+
+
 
 **4. Build production files:**
 
